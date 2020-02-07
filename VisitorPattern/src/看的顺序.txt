@@ -1,0 +1,7 @@
+zero-->first 更通用
+
+second **** 一般讲访问者模式的文章会讲的
+
+third.zero-->third.first-->third.first.second-->second(上面的second ****)
+
+third.zero-->third.second
